@@ -18,9 +18,8 @@ function Footer() {
 					<InstagramIcon />
 				</a>				
 			</div>
-		</footer>	
+			</footer>	
 	)
-
 }
 
 export default Footer;
